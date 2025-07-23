@@ -1,5 +1,5 @@
 # Projeto Final 
-Neste projeto, estamos construindo um credit scoring para cartão de crédito, em um desenho amostral com 15 safras, e utilizando 12 meses de performance.
+Neste projeto, estamos construindo um credit scoring para cartão de crédito.
 
 
 Arquivos:
