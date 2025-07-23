@@ -5,5 +5,6 @@ Neste projeto, estamos construindo um credit scoring para cartão de crédito, e
 Arquivos:
 * projeto_final.py: Arquivo contém o código da aplicação utilizando o streamlit.
 * app_pycaret: Arquivo com todas as funções necessárias para rodar no streamlit a escoragem do arquivo de treino.
+* predict.xlsx arquivo resultante do app_pycaret.
 * streamlit-app1: Video apresentando o deploy criado com o aplicativo Streamlit.
 
