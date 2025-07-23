@@ -8,3 +8,9 @@ Arquivos:
 * predict.xlsx arquivo resultante do app_pycaret.
 * streamlit-app1: Video apresentando o deploy criado com o aplicativo Streamlit.
 
+* 
+
+
+
+https://github.com/user-attachments/assets/0c06f3d6-cdc4-4e09-a310-6ddf0fc1ff16
+
